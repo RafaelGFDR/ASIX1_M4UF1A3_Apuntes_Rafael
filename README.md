@@ -203,3 +203,9 @@ Link para mas informacion sobre [git push](https://www.atlassian.com/es/git/tuto
 ## Introducción a HTLM.
 Es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).
 
+Vista en codigo:
+![foto1](
+
+Vista en un navegador:
+![foto2](
+
