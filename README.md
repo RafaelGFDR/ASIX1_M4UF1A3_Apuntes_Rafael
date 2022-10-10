@@ -141,19 +141,19 @@ Para especificar los elementos de la cabecera de cada columna deberás encerrarl
 Ahora deberás **crear una línea adicional debajo para especificar que los encabezados terminan**, para crear una línea similar a la anterion pero escribiendo guiones ```---```.
 ```
 | Cont1 | Cont2 | Cont3 |
-| -- | -- | -- |
+| --- | --- | --- |
 ```
 
 Tambien en esta linea se puede especificar por donde va ha empezar el texto:
 
 Ejemplo:
 ```
-| Tblllll1 | Tbllllll2 | Tblllll3 |
-| :-- | :--: | --: |
+| Encabezado1 | Encabezado2 | Encabezado3 |
+| :--- | :---: | ---: |
 | cont1 | cont2 | cont3 |
 ```
 Vista:
-| Tblllll1 | Tbllllll2 | Tblllll3 |
+| Encabezado1 | Encabezado2 | Encabezado3 |
 | :-- | :---: | --: |
 | cont1 | cont2 | cont3 |
 
@@ -162,14 +162,14 @@ Las filas de contenido se crean **exactamente igual que la línea de cabecera**,
 Ejemplo:
 ```
 | Primera columna | Segunda columna | Tercera columna |
-| -- | -- | -- |
+| --- | --- | --- |
 | Contenido 1-1 | Contenido 1-2 | Contenido 1-3 |
 | Contenido 2-1 | Contenido 2-2 | Contenido 2-3 |
 | Contenido 3-1 | Contenido 3-2 | Contenido 3-3 |
 ```
 Vista
 | Primera columna | Segunda columna | Tercera columna |
-| -- | -- | -- |
+| --- | --- | --- |
 | Contenido 1-1 | Contenido 1-2 | Contenido 1-3 |
 | Contenido 2-1 | Contenido 2-2 | Contenido 2-3 |
 | Contenido 3-1 | Contenido 3-2 | Contenido 3-3 |
@@ -178,5 +178,28 @@ Vista
 Es una de las principales plataformas para crear proyectos abiertos de herramientas y aplicaciones, github es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador.
 
 ### Comandos utilizados en la UF1
-#### git clone
+#### Git Clone:
 Se utiliza para copiar un repositorio Git existente en un nuevo directorio local. El comando de clonación de Git creará un nuevo directorio local para el repositorio, copiará todo el contenido del repositorio especificado.
+
+[Tutorial de como clonar](https://techobservatory.com/how-to-clone-a-github-repository-in-visual-studio-code/)
+![Github+git+visual](https://i.ytimg.com/vi/lYiE5lBS13E/maxresdefault.jpg)
+
+#### Git add . y Git commit -m:
+El comando git add **añade un cambio del directorio de trabajo en el entorno de ensayo**. De este modo, indica a Git que quieres incluir actualizaciones en un archivo concreto en la próxima confirmación.
+
+El comando git commit captura una instantánea de los cambios realizados actualmente en el proyecto. Las instantáneas comprometidas se pueden considerar como versiones "seguras" de un proyecto: Git nunca las cambiará a menos que se lo solicite explícitamente.
+
+Página web donde explica a fondo todo sobre [Git add . y Git commit -m](https://www.atlassian.com/es/git/tutorials/saving-changes#:~:text=sobre%20git%20ignore%20.-,git%20add,concreto%20en%20la%20pr%C3%B3xima%20confirmaci%C3%B3n.)
+![gitAdd](https://code4all.mx/wp-content/uploads/2019/05/git-areas.png)
+
+#### Git push:
+El comando **git push** se usa para cargar contenido del repositorio local a un repositorio remoto. El envío es la forma de transferir confirmaciones desde tu repositorio local a un repositorio remoto.
+
+Link para mas informacion sobre [git push](https://www.atlassian.com/es/git/tutorials/syncing/git-push)
+
+![gitPush](https://miro.medium.com/max/1232/1*HJx_4MCxp0ghLWtTIjH9RQ.jpeg)
+
+
+## Introducción a HTLM.
+Es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).
+
