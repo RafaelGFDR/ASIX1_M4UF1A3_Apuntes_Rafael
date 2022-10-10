@@ -204,8 +204,8 @@ Link para mas informacion sobre [git push](https://www.atlassian.com/es/git/tuto
 Es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).
 
 Vista en codigo:
-![foto1](
+![foto1](Screenshot_1.png)
 
 Vista en un navegador:
-![foto2](
+![foto2](Screenshot_2.png)
 
