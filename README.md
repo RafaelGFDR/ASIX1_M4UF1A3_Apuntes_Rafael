@@ -114,7 +114,7 @@ Puedes añadir tantas líneas y párrafos como quieras.
 Para crear un enlace primero añadiremos el texto del link entre corchetes y posteriormente el link entre paréntesis el “texto opcional del enlace” es el texto alternativo al pasar el ratón por encima.
 Ejemplo:
 ```
-[ejemploTexto](https://ejemplo.com/"texot opcional del enlace")
+[Markdown](https://es.wikipedia.org/wiki/Markdown "Wiki Markdown")
 ```
 
 Vista:
