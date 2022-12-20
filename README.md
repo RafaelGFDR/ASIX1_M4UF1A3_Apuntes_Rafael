@@ -229,3 +229,5 @@ h1 {
 ![foto4](Screenshot_3.png)
 
 Vista:
+![foto5](Screenshot_5.png)
+Mas informacion en [w3schools.com](https://www.w3schools.com/css/default.asp)
