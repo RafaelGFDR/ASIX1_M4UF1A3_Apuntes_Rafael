@@ -209,3 +209,7 @@ Vista en codigo:
 Vista en un navegador:
 ![foto2](Screenshot_2.png)
 
+
+## Introducción a CSS
+CSS se usa para definir estilos para sus páginas web, incluido el diseño, el diseño y las variaciones en la visualización para diferentes dispositivos y tamaños de pantalla.
+### Sintaxis CSS
