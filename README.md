@@ -222,3 +222,10 @@ Con un archivo de hoja de estilo externo, puede cambiar el aspecto de un sitio w
 
 Ejemplo:
 ```
+h1 {
+    color: red;
+}
+```
+![foto4](Screenshot_3.png)
+
+Vista:
